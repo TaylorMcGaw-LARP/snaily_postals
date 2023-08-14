@@ -2,7 +2,7 @@
     Sonaran CAD Plugins
 
     Plugin Name: postals
-    Creator: SonoranCAD
+    Creator: snailyCAD
     Description: Fetches nearest postal from client
 ]]
 
