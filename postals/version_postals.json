@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "check_url": "https://raw.githubusercontent.com/TaylorMcGaw-LARP/snaily_postals/main/version_postals.json",
+    "check_url": "https://raw.githubusercontent.com/TaylorMcGaw-LARP/snaily_postals/main/postals/version_postals.json",
     "download_url": "https://github.com/TaylorMcGaw-LARP/snaily_postals",
     "configVersion": "1.0.0"
 }
